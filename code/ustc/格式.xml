@@ -1,0 +1,15 @@
+<doc id='1'>
+  <para number='1'>
+    <sent number='1' content="Engineering design process can be defined as a process fused by fellow engineers in the aid of developing either an entirely new system or improvising on the current on to cater to desired deeds. This process has always been seen indispensable as part of the country's economical growth in the manufacturing sector. However, the results of the recent National Innovation System (NIS) survey show that Singapore has a long way to go in its development of an innovation-based economy, especially in comparison to the other OECD countries. As we understand the relevance and importance of engineering design, we will come to realize that in reality there are several factors that preventing the progress of engineering design.">
+      <error number='1' error_start='0' error_end='26'>
+        <type>ArtOrDet</type>
+        <correction>The engineering design process</correction>
+        <comment>None</comment>
+      </error>
+    </sent>
+    <sent>
+    </sent>
+  </para>
+  <para>
+  </para>
+</doc>

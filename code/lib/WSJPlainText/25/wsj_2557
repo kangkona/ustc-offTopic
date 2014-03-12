@@ -1,0 +1,70 @@
+.START 
+
+Today's the day it's supposed to hit. 
+
+Reports of a new strain of computer virus have bubbled through the computer community and trade press in recent weeks and have now burst forth as a full-fledged scare: The Friday the 13th virus may be about to devour a personal computer near you. 
+
+There really is a virus.
+It really is nasty.
+But even those fanning the fears acknowledge that there have been only a dozen or so confirmed sightings of the virus, and it isn't a type that's likely to have spread very far. 
+
+"My suspicion is that it's very much overhyped," says Jonathan Rotenberg, president of the 31,000-member Boston Computer Society.
+A computer bulletin board at Mitre Corp. urges company employees to "Please calm down.
+The sky is not falling." 
+
+Still, Albert R. Belisle, deputy director of computer security at Bank of Boston Corp., says: "You have to treat them like bomb threats." 
+
+The Friday the 13th virus -- a.k.a. the Datacrime virus or the Columbus Day virus -- is believed to have originated in the Netherlands on March 1 and to have slipped across the Atlantic.
+The virus, a software program written by a "hacker," is an insidious type that supposedly can wipe out all the data on a personal computer's hard disk.
+In reality, it wipes out a directory on the hard disk that indicates where all the files are stored, meaning that most of the information is still there but the computer has no idea how to find it. 
+
+The virus itself is relatively easy to find.
+One variant attaches to a certain type of system file-those with a COM suffixand adds either 1,168 or 1,280 bytes to the file.
+Another adds 1,514 bytes and also goes after system files with an EXE suffix.
+All an anti-virus "vaccine" program has to do is check the actual size of those files against the size they're supposed to be.
+If the difference is one of those magic numbers, the vaccine has located the virus.
+The virus is also less contagious than some.
+The famous virus that hit Arpanet, the nationwide research network, did vast damage last year because so many machines are hooked together on the network and because the Unix operating system used on the network is vulnerable to such attacks.
+By contrast, the Friday the 13th virus is aimed at International Business Machines Corp.-compatible machines, most of which aren't on a network. 
+
+Even those on a network typically use operating-system software that is less robust than Unix and therefore less able to transmit a virus.
+Infection generally occurs only when someone borrows a tainted floppy disk or dials into an electronic bulletin board harboring the virus.
+Repairing the damage apparently is possible by using so-called utility software to figure out what's where on the hard disk. 
+
+Viruses have caught on as a concern partly because a few well-publicized ones, such as the Arpanet virus, have done extensive damage.
+But it's partly because computer technology still intimidates people enough that they're willing to believe the machines are malicious, and partly because virus is a catchy name.
+It lends itself to an extended metaphor, where endangered machines are "infected," anti-virus programs are "vaccines," and so on. 
+
+In any case, there seem to be two or three virus scares a year, often around computer hackers' favorite date: a Friday the 13th. 
+
+Andrew Davis, a partner in London with Touche Ross, the accounting firm, says, "I suspect -- I hope -- it's a journalist who has just picked up on the fact that there is such a thing as a Friday the 13th virus and is developing a story.
+Once you get under the hype, there's nothing magical about viruses and nothing new about Friday the 13th viruses." 
+
+Still, the virus clearly does exist.
+Ronald Shoupe, a computer manager at the National Aeronautics and Space Administration center in Greenbelt, Md., stumbled onto something that resembled the virus during a standard maintenance check last month.
+He advanced the date on the personal computer one day at a time until, when it reached Oct. 12, he triggered the virus. "It was impossible to receive data from any of the files," Mr. Shoupe says. 
+
+Many companies are taking steps to head off any problems, lest the scare turns out to be justified.
+A spokesman at J.C. Penney says the retailer is taking the threat seriously primarily because something called the Jerusalem virus penetrated about a dozen of its personal computers in Milwaukee in June.
+The infection was detected in a normal scanning procedure and eradicated, but "it certainly heightened our awareness of the problem," the spokesman says. 
+
+Tandem Computers Inc. sent a memo to employees urging them to practice "safe computing." The memo advised making copies of hard disks and setting computer clocks to Oct. 15, to skip the trigger date. 
+
+McKesson Corp. published an employee newsletter that, while calling the virus rare, suggested employees avoid public computer bulletin boards and floppy disks containing files of unknown origin.
+Sun Microsystems Inc. has had software engineers run the clocks forward on several computers to see what would happen -- nothing so far.
+Convex Computer Corp. has had three people tracking viruses closely and is constantly developing vaccines, a product manager says. 
+
+CO CGP ANP+ .START 
+
+ANR Pipeline Co. said it plans to acquire a controlling position in Champlain Pipeline Co. in a bid to rescue the company's plan to construct a $342-million natural-gas pipeline from Canada to the energy-hungry U.S. Northeast. 
+
+Detroit-based ANR, a unit of Coastal Corp., said it has agreed to acquire an additional 35% of Champlain from other partners for an undisclosed sum, bringing its total stake in the Burlington, Vt.-based pipeline company to 63%. 
+
+"Obviously, we'd very much like a much larger share of the growing market in the Northeast," said Marian Droll, a spokeswoman for ANR. 
+
+Champlain's plan to construct a natural-gas pipeline to ship as much as 400 million cubic feet of gas daily to New England, beginning in 1991, ran into difficulties when Canadian natural-gas producers vetoed contracts to supply the New England customers. 
+
+"ANR is a large presence in the industry, and will help us put together gas supply from a variety of sources, and allow us get on with the project, to meet the region's demand for gas," said Dwight Curley, president of Champlain. 
+
+One of ANR's first tasks will be to reduce the size of the project, Ms. Droll said, cutting the pipeline's capacity to about 240 million cubic feet of gas daily. 
+

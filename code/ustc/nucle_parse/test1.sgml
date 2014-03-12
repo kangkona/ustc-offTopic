@@ -1,0 +1,410 @@
+<DOCS>
+<DOC nid="840">
+<TEXT>
+<P>
+Engineering design process can be defined as a process fused by fellow engineers in the aid of developing either an entirely new system or improvising on the current on to cater to desired deeds. This process has always been seen indispensable as part of the country's economical growth in the manufacturing sector. However, the results of the recent National Innovation System (NIS) survey show that Singapore has a long way to go in its development of an innovation-based economy, especially in comparison to the other OECD countries. As we understand the relevance and importance of engineering design, we will come to realize that in reality there are several factors that preventing the progress of engineering design.
+</P>
+<P>
+Firstly, engineering design process has come to incur excessive costs. Due to high global demand in the world's limited natural raw materials, the prices of copper and silicon have rocketed sky high. Engineering processes for innovations such as the wafer fabrication and semi-conductor industries are directly affected by the prices of the raw materials. As a result, research and development in these fields have become way costlier compared to previous years.
+</P>
+<P>
+In Singapore, there is only a certain fixed amount in the country's national budget allocated of the research and development sector. It is more expensive to conduct creative engineering research; therefore it is inevitable that a slight reluctance in contributing more assets to engineering design by the government; the reality of the support given by the government is weak. Moreover, the government has also other financial plans in spending their resources. Some feel that in these tough economical times, it is wiser to splurge the money on restructuring the economy or providing more incentives to instill entrepreneurship, rather than investing in research in engineering design. Hence, the area of innovative research and development in engineering is not driven in full swing.
+</P>
+<P>
+Secondly, the amount of creative people in Singapore is small, which may be a major reason for the hampering of innovative engineering design. The population of Singapore is scarce compared to other countries in the region. In countries like China and India, their population amount to billions whereas the population of Singapore is only 4.5 million. The fact that Singapore has limited human resource limits the number of creative people in the country. For example, five percent of the population in Singapore is 1000 times lesser than five percent of the population in the China. As a result, the number of creative Singaporeans would be much lower relative to other countries.
+</P>
+<P>
+Although there are many Singaporean-based driven engineering design projects like NEWater plants, much of our economical success due to engineering design is highly dependent on other countries. For example, most of our latest mass spectrometry equipment used in the area of engineering design is largely obtained from Germany. In areas of mechanical engineering, our latest machineries are either bought or are replicas from the models in Japan. The impact on having a limited amount of creative people has resulted in Singapore having to resort to buying foreign-based engineering design equipment from overseas.
+</P>
+<P>
+In conclusion, even though we realize the importance of engineering design processes in innovation, there are still problems like rising costs and population scarcity problem that hinders the progress of the engineering process.
+</P>
+</TEXT>
+<ANNOTATION teacher_id="173">
+<MISTAKE start_par="0" start_off="0" end_par="0" end_off="26">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>The engineering design process</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="55" end_par="0" end_off="60">
+<TYPE>Wcip</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="166" end_par="0" end_off="168">
+<TYPE>Mec</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="181" end_par="0" end_off="194">
+<TYPE>Um</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="225" end_par="0" end_off="229">
+<TYPE>Others</TYPE>
+<CORRECTION>seen as</CORRECTION>
+<COMMENT>missing linking word</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="269" end_par="0" end_off="279">
+<TYPE>Wform</TYPE>
+<CORRECTION>economic</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="244" end_par="0" end_off="254">
+<TYPE>Wcip</TYPE>
+<CORRECTION>to</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="677" end_par="0" end_off="687">
+<TYPE>Vform</TYPE>
+<CORRECTION>prevent</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="36" end_par="1" end_off="47">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="28" end_par="1" end_off="36">
+<TYPE>Nn</TYPE>
+<CORRECTION>processes</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="426" end_par="1" end_off="434">
+<TYPE>Wform</TYPE>
+<CORRECTION>more costly</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="422" end_par="1" end_off="426">
+<TYPE>Wtone</TYPE>
+<CORRECTION>significantly</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="403" end_par="1" end_off="409">
+<TYPE>Spar</TYPE>
+<CORRECTION>fields today</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="447" end_par="1" end_off="455">
+<TYPE>Spar</TYPE>
+<CORRECTION>R   D costs in previous</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="23" end_par="2" end_off="27">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="94" end_par="2" end_off="96">
+<TYPE>Wcip</TYPE>
+<CORRECTION>to</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="134" end_par="2" end_off="136">
+<TYPE>Trans</TYPE>
+<CORRECTION>Since it</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="195" end_par="2" end_off="206">
+<TYPE>Mec</TYPE>
+<CORRECTION>,</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="224" end_par="2" end_off="228">
+<TYPE>Others</TYPE>
+<CORRECTION>that there would be</CORRECTION>
+<COMMENT>incorrect sentence structure</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="299" end_par="2" end_off="301">
+<TYPE>Wcip</TYPE>
+<CORRECTION>on the part of</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="318" end_par="2" end_off="321">
+<TYPE>Trans</TYPE>
+<CORRECTION>hence, the</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="322" end_par="2" end_off="336">
+<TYPE>Wcip</TYPE>
+<CORRECTION>actual</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="403" end_par="2" end_off="411">
+<TYPE>WOadv</TYPE>
+<CORRECTION>also has</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="418" end_par="2" end_off="433">
+<TYPE>WOadv</TYPE>
+<CORRECTION>areas</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="434" end_par="2" end_off="445">
+<TYPE>Vform</TYPE>
+<CORRECTION>to spend</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="452" end_par="2" end_off="461">
+<TYPE>Wcip</TYPE>
+<CORRECTION>resources on</CORRECTION>
+<COMMENT>missing preposition</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="493" end_par="2" end_off="503">
+<TYPE>Wform</TYPE>
+<CORRECTION>economic</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="526" end_par="2" end_off="533">
+<TYPE>Wcip</TYPE>
+<CORRECTION>spend</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="605" end_par="2" end_off="612">
+<TYPE>Wcip</TYPE>
+<CORRECTION>encourage</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="772" end_par="2" end_off="774">
+<TYPE>Wcip</TYPE>
+<CORRECTION>to</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="14" end_par="3" end_off="20">
+<TYPE>Wcip</TYPE>
+<CORRECTION>number</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="174" end_par="3" end_off="180">
+<TYPE>Wcip</TYPE>
+<CORRECTION>small</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="527" end_par="3" end_off="533">
+<TYPE>Wform</TYPE>
+<CORRECTION>less</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="573" end_par="3" end_off="576">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="110" end_par="4" end_off="120">
+<TYPE>Wform</TYPE>
+<CORRECTION>economic</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="398" end_par="4" end_off="404">
+<TYPE>Wcip</TYPE>
+<CORRECTION>bought from</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="421" end_par="4" end_off="425">
+<TYPE>Wcip</TYPE>
+<CORRECTION>of</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="426" end_par="4" end_off="429">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="458" end_par="4" end_off="460">
+<TYPE>Wcip</TYPE>
+<CORRECTION>of</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="478" end_par="4" end_off="484">
+<TYPE>Wcip</TYPE>
+<CORRECTION>number</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="129" end_par="4" end_off="154">
+<TYPE>Um</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="5" start_off="167" end_par="5" end_off="174">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="259" end_par="3" end_off="276">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>the population</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="276" end_par="3" end_off="282">
+<TYPE>Wcip</TYPE>
+<CORRECTION>numbers</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="283" end_par="3" end_off="285">
+<TYPE>Wcip</TYPE>
+<CORRECTION>in</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="286" end_par="3" end_off="294">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>the billions</CORRECTION>
+</MISTAKE>
+</ANNOTATION>
+</DOC>
+
+<DOC nid="862">
+<TEXT>
+<P>
+Singapore is a small country, with a small population. Here, we face problems of shortage of natural resources as well as lack of funding, when it comes to designing for our innovations. These could greatly affect the engineering process for designing for our innovations.
+</P>
+<P>
+The shortage of natural resources mean that all raw materials required for engineering design process for innovations would have to come from import. This by itself poses problems such as greater cost incurred for innovations, shipment fees, as well as a delay in engineering design process. The higher cost makes it expensive for engineering designing processes hence groups that do not have funding or sufficient funding will be held back. This is because the designing process usually involves a lot of trial and error, using various materials for different parts of the innovation, in order to optimize the best working condition for the item of innovation. The delay in shipment of raw materials causes a lapse of time before the materials can reach Singapore. This results in a delay of the testing of the engineering design which slows down the whole engineering design process. Professor Seah (2009) mentioned that the Formula Society of Automotive Engineers (FSAE) their first formula race car took 2 years instead of 1 to be produced, partly because of a lack of raw materials and funding. The long shipping time and greater cost due to importing of raw materials delayed the engineering design process as they only have a plan of the race car but no chance to physically fabricate the parts and build the car, while the raw materials are still on their way to Singapore Another problem which could greatly affect the engineering process for designing is a lack of funding. The designing process requires a large amount of raw materials for repeated fabrications of each part with different material in order to obtain the most suitable material to optimize the function of the product of innovation. Even for the same kind of material, it might have to be used several times as the parts fabricated is not necessarily always in the expected condition when it is first made, resulting in a wastage and hence greater consumption of raw materials and therefore a greater cost incurred in the designing process. Without funding, this step of designing would be impossible especially if the raw materials are required in large quantity. Innovations which require expensive raw materials will be impossible to proceed if there is insufficient funding. One innovation which went on very well in Singapore as a result of funding is the desalination of sea water. Water supply has always been a key issue for consideration by Singapore government. Singapore has been very reliant on neighboring countries such as Malaysia in supplying us with water. This dependence on neighboring countries for water creates a need for Singapore to become more self-reliant on water supply. Hence when idea of water desalination first came out, it was greatly funded by Singapore government for further improvements in Singapore. Water-technology.net claims that tuas desalination plants produces water at 110000 cubic meters, enough to meet 10% of Singapore's daily water needs(At 110,000m3/day, n.d.). Therefore, availability of funding plays a great role in affecting the engineering process of designing. With funding, there can be further research and development into improving the innovation even after it is created. In conclusion, the engineering process for designing for innovations is greatly dependent on the availability of raw materials and funding. The delay or shortage in either of them will lead to a lapse or even stoppage of the designing process.
+</P>
+<P>
+Reference
+</P>
+<P>
+At 110,000m3/day, the Tuas seawater reverse osmosis (SWRO) plant has sufficient capacity to meet around 10% of the national demand - and at a price which challenges the notion that desalination is a high-cost option. Retrieved 9 September, 2009, http //www.water- technology.net/projects/tuas/
+</P>
+<P>
+Professor Seah.K.H(2009, August 28). NUS Formula SAE race car project [Lecture]. Singapore  The National University of Singapore  English for Academic Writing.
+</P>
+</TEXT>
+<ANNOTATION teacher_id="175">
+<MISTAKE start_par="1" start_off="142" end_par="1" end_off="148">
+<TYPE>Nn</TYPE>
+<CORRECTION>imports</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="196" end_par="1" end_off="200">
+<TYPE>Nn</TYPE>
+<CORRECTION>costs</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="261" end_par="1" end_off="275">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>the</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="353" end_par="1" end_off="368">
+<TYPE>Srun</TYPE>
+<CORRECTION>processes. Hence</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="624" end_par="1" end_off="633">
+<TYPE>Nn</TYPE>
+<CORRECTION>conditions</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="34" end_par="1" end_off="38">
+<TYPE>SVA</TYPE>
+<CORRECTION>means</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="923" end_par="1" end_off="926">
+<TYPE>Others</TYPE>
+<CORRECTION>for</CORRECTION>
+<COMMENT>missing preposition</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="1226" end_par="1" end_off="1230">
+<TYPE>Vt</TYPE>
+<CORRECTION>had</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="1345" end_par="1" end_off="1348">
+<TYPE>Vt</TYPE>
+<CORRECTION>were</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="1601" end_par="1" end_off="1609">
+<TYPE>Nn</TYPE>
+<CORRECTION>materials</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="1793" end_par="1" end_off="1798">
+<TYPE>Nn</TYPE>
+<CORRECTION>part</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2133" end_par="1" end_off="2141">
+<TYPE>Nn</TYPE>
+<CORRECTION>quantities</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2428" end_par="1" end_off="2437">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>the Singapore</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2660" end_par="1" end_off="2676">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2849" end_par="1" end_off="2853">
+<TYPE>Mec</TYPE>
+<CORRECTION>Tuas</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2867" end_par="1" end_off="2882">
+<TYPE>SVA</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2965" end_par="1" end_off="2967">
+<TYPE>Mec</TYPE>
+<CORRECTION></CORRECTION>
+<COMMENT>capitalisatiion</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="2688" end_par="1" end_off="2692">
+<TYPE>Others</TYPE>
+<CORRECTION>the idea</CORRECTION>
+<COMMENT>missing determiner</COMMENT>
+</MISTAKE>
+</ANNOTATION>
+</DOC>
+
+<DOC nid="895">
+<TEXT>
+<P>
+According to Rogers (2003), the development of technologies can be examined from a technologically determinist perspective, that is to create a revolution in the society. However, for technologies to be widely adopted and successful, inputs from the society must never be neglected. In fact, innovations are more often shaped by social aspects. One example of such technology is the 3-D printer.
+</P>
+<P>
+The 3-D printer currently available has the ability to produce complex model of differing shapes and sizes in a short duration. In addition, it can print on various materials ranging from rubber to plastic. These properties of the 3-D printer are consequences of psychological and economic factors.
+</P>
+<P>
+Present technology is insufficient to convince investors to finance proposals, especially in the manufacturing or construction sector. While computer-aided designing software is available to produce 3-D simulation, it lacks realism. Since such project involves huge amount of money, investors must be ascertained that their commitment will bring them profit. One way of convincing them is to produce physical prototypes where that can feel and scrutinize.
+</P>
+<P>
+Secondly, creating models with traditional means is time consuming, which does not make economical sense to businesses. Companies are often engaged in a race to unveil their product ahead of their competitors, so as to seize a major share of the marketplace. In such situation, time is of essence. In consideration of these factors, designers have conceived the 3-D printer, which is capable of speeding up designing process. Based on a report in The Economist (2009), it now takes Timberland merely ninety minutes to turn a design of a new sole into a model using the 3-D printer, a significant decrease from a week that the process requires in the past.
+</P>
+<P>
+The factors that shaped the technological innovation of the 3-D printer discuss thus far are coming from the end-user perspective. However, factors from the manufacture's viewpoint are also considered to ensure the commercial success of the 3-D printer. These factors have also influenced the design of the 3-D printer.
+</P>
+<P>
+The designing of the 3-D printer is also influenced by the potential profitability of it. The development of the technical aspects of a technology involves the devotion of large amount of resources, which will results in increased cost. As with all business operators, corporate manufacturers must ensure that their product is profitable, or at the basic able to recuperate the financial resources poured into research and development. The designers of the 3-D printer had ensured that their product appeal to a large consumer group by boosting its functionality. As mentioned in The Economist (2009), the "machine can not only produce things out-of plastic, but also complex ones with moving parts."
+</P>
+<P>
+In conclusion, the technological innovation of the 3-D printer is shaped by the demand for realistic model that can be produced in a short time. Besides, it is also influenced by the potential profitability of the corporate manufacturer.
+</P>
+</TEXT>
+<ANNOTATION teacher_id="178">
+<MISTAKE start_par="1" start_off="71" end_par="1" end_off="76">
+<TYPE>Nn</TYPE>
+<CORRECTION>models</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="244" end_par="2" end_off="251">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>a project</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="301" end_par="2" end_off="312">
+<TYPE>Wcip</TYPE>
+<CORRECTION>convinced</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="324" end_par="2" end_off="334">
+<TYPE>Nn</TYPE>
+<CORRECTION>commitments</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="420" end_par="2" end_off="425">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="431" end_par="3" end_off="0">
+<TYPE>Vt</TYPE>
+<CORRECTION>can be felt and scrutinized.</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="66" end_par="3" end_off="73">
+<TYPE>Trans</TYPE>
+<CORRECTION>and</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="208" end_par="3" end_off="209">
+<TYPE>Mec</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="239" end_par="3" end_off="241">
+<TYPE>Wcip</TYPE>
+<CORRECTION>in</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="267" end_par="3" end_off="276">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>a situation</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="417" end_par="3" end_off="424">
+<TYPE>Nn</TYPE>
+<CORRECTION>processes</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="580" end_par="3" end_off="581">
+<TYPE>Mec</TYPE>
+<CORRECTION>---</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="72" end_par="4" end_off="79">
+<TYPE>Vt</TYPE>
+<CORRECTION>discussed</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="5" start_off="205" end_par="5" end_off="217">
+<TYPE>Vt</TYPE>
+<CORRECTION>will result</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="5" start_off="469" end_par="5" end_off="480">
+<TYPE>Vt</TYPE>
+<CORRECTION>have ensured</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="6" start_off="91" end_par="6" end_off="106">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>a realistic model</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="6" start_off="179" end_par="7" end_off="0">
+<TYPE>Um</TYPE>
+<CORRECTION>its potential profitability for the corporate manufacturer.</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="605" end_par="3" end_off="609">
+<TYPE>Wcip</TYPE>
+<CORRECTION>of</CORRECTION>
+</MISTAKE>
+</ANNOTATION>
+</DOC>
+</DOCS>

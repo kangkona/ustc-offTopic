@@ -1,0 +1,100 @@
+16 June 2011
+
+This README file describes the NUS Corpus of Learner English (NUCLE).
+It was collected in a collaboration project between the National
+University of Singapore (NUS) Natural Language Processing (NLP) Group
+led by Prof. Hwee Tou Ng and the NUS Centre for English Language
+Communication (CELC) led by Prof. Siew Mei Wu. The work was carried
+out as part of the PhD thesis research of Daniel Dahlmeier at the NUS
+NLP Group.
+
+The corpus is distributed under the standard NUS licensing agreement
+available when downloading the corpus. Any questions regarding NUCLE
+should be directed to Daniel Dahlmeier at: danielhe@comp.nus.edu.sg
+
+
+Contents
+========
+1. About
+2. Data Format
+
+
+1. About
+========
+
+NUCLE is a corpus of learner English. It consists of about 1,400
+essays written by university students at the National University of
+Singapore on a wide range of topics, such as environmental pollution,
+healthcare, etc. It contains over one million words which are
+completely annotated with error tags and corrections. All annotations
+have been performed by professional English instructors at the NUS
+CELC.
+
+
+2. Data Format 
+==============
+
+The corpus is distributed in a simple SGML format.  All annotations
+come in a "stand-off" format. The start position and end position of
+an annotation are given by paragraph and character offsets.
+Paragraphs are enclosed in <P>...</P> tags. Paragraphs and characters
+are counted starting from zero. Each annotation includes the following
+fields: the error type, the correction, and optionally a comment. If
+the correction replaces the original text at the given location, it
+should fix the grammatical error.
+
+Example:
+
+<DOC nid="840">
+<TEXT>
+<P>
+Engineering design process can be defined as a process ...
+</P>
+<P>
+Firstly, engineering design ...
+</P>
+...
+</TEXT>
+<ANNOTATION teacher_id="173">
+<MISTAKE start_par="0" start_off="0" end_par="0" end_off="26">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>The engineering design process</CORRECTION>
+</MISTAKE>
+...
+</ANNOTATION>
+</DOC>
+<DOC nid="862">
+...
+
+
+Below is a complete list of the error types. 
+
+TAG          ERROR TYPE
+--------------------------
+Vt	     Verb tense
+Vm	     Verb modal
+V0	     Missing verb
+Vform	     Verb form
+SVA	     Subject-verb-agreement
+ArtOrDet     Article or Determiner
+Nn	     Noun number
+Npos	     Noun possesive
+Pform	     Pronoun form
+Pref	     Pronoun reference
+Wcip	     Wrong collocation/idiom/preposition
+Wa	     Acronyms
+Wform	     Word form
+Wtone	     Tone
+Srun	     Runons, comma splice
+Smod	     Dangling modifier
+Spar	     Parallelism
+Sfrag	     Fragment
+Ssub	     Subordinate clause
+WOinc	     Incorrect sentence form
+WOadv	     Adverb/adjective position
+Trans	     Link word/phrases
+Mec	     Punctuation, capitalization, spelling, typos
+Rloc	     Local redundancy
+Cit	     Citation
+Others	     Other errors
+Um	     Unclear meaning (cannot be corrected)

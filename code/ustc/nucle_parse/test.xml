@@ -1,0 +1,214 @@
+<DOCS>
+<DOC nid="840">
+<TEXT>
+<P>
+Engineering design process can be defined as a process fused by fellow engineers in the aid of developing either an entirely new system or improvising on the current on to cater to desired deeds. This process has always been seen indispensable as part of the country's economical growth in the manufacturing sector. However, the results of the recent National Innovation System (NIS) survey show that Singapore has a long way to go in its development of an innovation-based economy, especially in comparison to the other OECD countries. As we understand the relevance and importance of engineering design, we will come to realize that in reality there are several factors that preventing the progress of engineering design.
+</P>
+<P>
+Firstly, engineering design process has come to incur excessive costs. Due to high global demand in the world's limited natural raw materials, the prices of copper and silicon have rocketed sky high. Engineering processes for innovations such as the wafer fabrication and semi-conductor industries are directly affected by the prices of the raw materials. As a result, research and development in these fields have become way costlier compared to previous years.
+</P>
+<P>
+In Singapore, there is only a certain fixed amount in the country's national budget allocated of the research and development sector. It is more expensive to conduct creative engineering research; therefore it is inevitable that a slight reluctance in contributing more assets to engineering design by the government; the reality of the support given by the government is weak. Moreover, the government has also other financial plans in spending their resources. Some feel that in these tough economical times, it is wiser to splurge the money on restructuring the economy or providing more incentives to instill entrepreneurship, rather than investing in research in engineering design. Hence, the area of innovative research and development in engineering is not driven in full swing.
+</P>
+<P>
+Secondly, the amount of creative people in Singapore is small, which may be a major reason for the hampering of innovative engineering design. The population of Singapore is scarce compared to other countries in the region. In countries like China and India, their population amount to billions whereas the population of Singapore is only 4.5 million. The fact that Singapore has limited human resource limits the number of creative people in the country. For example, five percent of the population in Singapore is 1000 times lesser than five percent of the population in the China. As a result, the number of creative Singaporeans would be much lower relative to other countries.
+</P>
+<P>
+Although there are many Singaporean-based driven engineering design projects like NEWater plants, much of our economical success due to engineering design is highly dependent on other countries. For example, most of our latest mass spectrometry equipment used in the area of engineering design is largely obtained from Germany. In areas of mechanical engineering, our latest machineries are either bought or are replicas from the models in Japan. The impact on having a limited amount of creative people has resulted in Singapore having to resort to buying foreign-based engineering design equipment from overseas.
+</P>
+<P>
+In conclusion, even though we realize the importance of engineering design processes in innovation, there are still problems like rising costs and population scarcity problem that hinders the progress of the engineering process.
+</P>
+</TEXT>
+<ANNOTATION teacher_id="173">
+<MISTAKE start_par="0" start_off="0" end_par="0" end_off="26">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>The engineering design process</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="55" end_par="0" end_off="60">
+<TYPE>Wcip</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="166" end_par="0" end_off="168">
+<TYPE>Mec</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="181" end_par="0" end_off="194">
+<TYPE>Um</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="225" end_par="0" end_off="229">
+<TYPE>Others</TYPE>
+<CORRECTION>seen as</CORRECTION>
+<COMMENT>missing linking word</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="269" end_par="0" end_off="279">
+<TYPE>Wform</TYPE>
+<CORRECTION>economic</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="244" end_par="0" end_off="254">
+<TYPE>Wcip</TYPE>
+<CORRECTION>to</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="0" start_off="677" end_par="0" end_off="687">
+<TYPE>Vform</TYPE>
+<CORRECTION>prevent</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="36" end_par="1" end_off="47">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="28" end_par="1" end_off="36">
+<TYPE>Nn</TYPE>
+<CORRECTION>processes</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="426" end_par="1" end_off="434">
+<TYPE>Wform</TYPE>
+<CORRECTION>more costly</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="422" end_par="1" end_off="426">
+<TYPE>Wtone</TYPE>
+<CORRECTION>significantly</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="403" end_par="1" end_off="409">
+<TYPE>Spar</TYPE>
+<CORRECTION>fields today</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="1" start_off="447" end_par="1" end_off="455">
+<TYPE>Spar</TYPE>
+<CORRECTION>R  D costs in previous</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="23" end_par="2" end_off="27">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="94" end_par="2" end_off="96">
+<TYPE>Wcip</TYPE>
+<CORRECTION>to</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="134" end_par="2" end_off="136">
+<TYPE>Trans</TYPE>
+<CORRECTION>Since it</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="195" end_par="2" end_off="206">
+<TYPE>Mec</TYPE>
+<CORRECTION>,</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="224" end_par="2" end_off="228">
+<TYPE>Others</TYPE>
+<CORRECTION>that there would be</CORRECTION>
+<COMMENT>incorrect sentence structure</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="299" end_par="2" end_off="301">
+<TYPE>Wcip</TYPE>
+<CORRECTION>on the part of</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="318" end_par="2" end_off="321">
+<TYPE>Trans</TYPE>
+<CORRECTION>hence, the</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="322" end_par="2" end_off="336">
+<TYPE>Wcip</TYPE>
+<CORRECTION>actual</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="403" end_par="2" end_off="411">
+<TYPE>WOadv</TYPE>
+<CORRECTION>also has</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="418" end_par="2" end_off="433">
+<TYPE>WOadv</TYPE>
+<CORRECTION>areas</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="434" end_par="2" end_off="445">
+<TYPE>Vform</TYPE>
+<CORRECTION>to spend</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="452" end_par="2" end_off="461">
+<TYPE>Wcip</TYPE>
+<CORRECTION>resources on</CORRECTION>
+<COMMENT>missing preposition</COMMENT>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="493" end_par="2" end_off="503">
+<TYPE>Wform</TYPE>
+<CORRECTION>economic</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="526" end_par="2" end_off="533">
+<TYPE>Wcip</TYPE>
+<CORRECTION>spend</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="605" end_par="2" end_off="612">
+<TYPE>Wcip</TYPE>
+<CORRECTION>encourage</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="2" start_off="772" end_par="2" end_off="774">
+<TYPE>Wcip</TYPE>
+<CORRECTION>to</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="14" end_par="3" end_off="20">
+<TYPE>Wcip</TYPE>
+<CORRECTION>number</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="174" end_par="3" end_off="180">
+<TYPE>Wcip</TYPE>
+<CORRECTION>small</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="527" end_par="3" end_off="533">
+<TYPE>Wform</TYPE>
+<CORRECTION>less</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="573" end_par="3" end_off="576">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="110" end_par="4" end_off="120">
+<TYPE>Wform</TYPE>
+<CORRECTION>economic</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="398" end_par="4" end_off="404">
+<TYPE>Wcip</TYPE>
+<CORRECTION>bought from</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="421" end_par="4" end_off="425">
+<TYPE>Wcip</TYPE>
+<CORRECTION>of</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="426" end_par="4" end_off="429">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="458" end_par="4" end_off="460">
+<TYPE>Wcip</TYPE>
+<CORRECTION>of</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="478" end_par="4" end_off="484">
+<TYPE>Wcip</TYPE>
+<CORRECTION>number</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="4" start_off="129" end_par="4" end_off="154">
+<TYPE>Um</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="5" start_off="167" end_par="5" end_off="174">
+<TYPE>Rloc</TYPE>
+<CORRECTION></CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="259" end_par="3" end_off="276">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>the population</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="276" end_par="3" end_off="282">
+<TYPE>Wcip</TYPE>
+<CORRECTION>numbers</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="283" end_par="3" end_off="285">
+<TYPE>Wcip</TYPE>
+<CORRECTION>in</CORRECTION>
+</MISTAKE>
+<MISTAKE start_par="3" start_off="286" end_par="3" end_off="294">
+<TYPE>ArtOrDet</TYPE>
+<CORRECTION>the billions</CORRECTION>
+</MISTAKE>
+</ANNOTATION>
+</DOC>
+
+</DOCS>

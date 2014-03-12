@@ -1,0 +1,331 @@
+#Similarity Relations
+like
+look* like
+resembl*
+approximate*
+similar to
+identical with
+identical to
+parallel to
+parallel with
+analogous to
+the same as
+comparable to
+shar*
+akin to
+a kind of
+counterpart* of
+correspond* to
+match*
+proportional to
+an equivalent of
+equal to
+equivalent to
+indistinguishable from
+synonymous with
+consist* of
+constitut*
+represent*
+considered as
+interpreted as
+regarded as
+thought of as
+approach
+#Difference Relations
+as opposed to
+different from
+dissimilar
+distinct from
+distinguished from
+opposite
+unlike
+differ* from
+conflict*
+polar
+contradictory
+#Inclusion Relations
+a kind of
+a sort of
+a member of
+a type of
+belong* to
+fall* into
+fell into
+a case of
+a class of
+a form of
+a variant of
+a family of
+contain*
+embody*
+cover*
+encompass*
+includ*
+as illustrated by
+exemplified by
+represented by
+an example of
+prototype of
+representative of
+occur* as
+rang* from
+var* from
+categor*
+famil*
+variet*
+classification*
+coverage*
+group*
+a component of
+an ingredient of
+an element of
+a part of
+a section of
+a segment of
+composed of
+comprised of
+divided into
+subdivided into
+partitioned into
+equipped with
+filled with
+formed by
+made from
+made up of
+provided with
+compris*
+consist* of
+component*
+member*
+the remaining
+portion*
+subunit*
+unit*
+system*
+a fragment of
+a piece of
+a portion of
+appear* in
+characteristic* of
+trait* of
+feature* of
+part* of
+characterized by
+possess*
+form*
+the* feature of
+#Exclusion Relations
+absent from
+excluded from
+to the exclusion of
+devoid of
+free of
+lack*
+missing
+Change of State
+aris* from
+arose from
+aris* out of
+arose out of
+a derivative of
+a product of
+com* from
+came from
+deriv* from
+develop* from
+originat* from
+giv* rise to
+gave rise to
+giv* away to
+gave away to
+yield*
+follow*
+caus*
+produc*
+belong* to
+due to
+produced by
+produced from
+the result of
+result* from
+result* in
+the reason why
+the finding of
+converted to
+becom*
+became
+branch* into
+evolv* into
+transform* into
+render*
+turn* into
+switch*
+chang* into
+grow*
+grew
+shift*
+develop*
+process of
+#Functioning
+act* as 
+act* to 
+behav* like
+function as
+ha*a role in
+play* the role of
+play* a part in
+provid*
+serv* as
+useful for
+used for
+used to do
+chosen as
+employ* as
+method*
+means
+#Spatial Relations
+adjacent to
+contained in
+contained within
+coated with
+covered with
+embedded in
+equidistant
+parallel to
+inserted into
+positioned at
+separated
+surrounded by
+fac*
+situat*
+sit*
+sat
+stand*
+stood
+resid*
+surround
+found in
+exist* in
+there*
+arranged
+distributed
+located
+placed
+extend*
+lie
+lay
+lain
+lying
+opposite
+#Temporal Relations
+previous*
+current*
+present
+at once
+soon
+former
+later
+past
+following
+temporal*
+permanent*
+last*83
+gradual*
+sudden*
+eternal*
+immediate*
+timely
+early
+late
+duration
+already
+yet
+pre-*
+post-*
+urgent*
+thereupon
+hitherto
+henceforward
+henceforth
+first*
+second*
+third*
+forth*
+fifth*
+sixth*
+at first
+first of all
+in the end
+at last
+final*
+next*
+annual*
+yearly
+monthly
+weekly
+daily
+always
+often
+sometimes
+seldom
+hardly
+never
+ever
+once
+twice
+frequent*
+constant*
+simultaneous*
+no longer
+no more
+not any more
+not any longer
+continual*
+continuous*
+average
+regular*
+future
+with* frequency
+#Physical Characteristics
+extend*
+measur*
+maintain*
+weigh*
+*-colored
+*-sizeded
+*-part
+*-shaped
+ha* a *-like appearance
+in the form of
+in the shape of
+in shades of
+dimension
+be
+is
+are
+was
+were
+being
+been
+in shape
+with a* component
+with* component
+shape
+look
+#Quantity Modification
+a high percentage of
+a small percentage of
+a percentage of
+rate of
+percent
+proportion of
+a variety of
+a quantity of
+volume* of
+amount* of
+number* of
+part* of
+a class of
+a family of
+a series of
+a set of

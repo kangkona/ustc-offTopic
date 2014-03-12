@@ -1,0 +1,46 @@
+.START 
+
+International Business Machines Corp. introduced an array of products aimed at helping corporate customers write software faster. 
+
+Customers and consultants generally welcomed the announcement, because the difficulties faced by mainframe programmers have left most data-processing departments with a two-year to three-year backlog of software work. 
+
+Down the road, the announcement is likely to energize the market for computer-aided-software-engineering (CASE) tools.
+Moreover, if companies really do produce additional software, that will create demand for additional hardware. 
+
+"CASE has been very slow to take off, because there were a lot of products, but nobody was big enough to set a standard," said Esther Dyson, editor of Release 1.0, an industry newsletter. "IBM's blessing means a lot." 
+
+Still, even IBM acknowledged that the products aren't a quick fix.
+George Conrades, the executive in charge of the Armonk, N.Y., computer giant's U.S. marketing operations, said most customers he's talked to think it will take three to five years for them to implement and fully benefit from the IBM strategy. 
+
+Some customers also said they thought IBM's announcement left many holes that it will have to fill in to make the effort really useful. "I'm a supporter of the efforts, and this is a good first step, but I need more," said George DiNardo, an executive vice president at Mellon Bank in Pittsburgh. 
+
+The crux of the announcement is the Repository, a database that will become available next June.
+The Repository will hold information that all of an organization's programmers will draw on and that will discipline the writing of software.
+The information will include such things as who gets access to certain types of data and how numbers should be presented on a screen.
+The Repository also will store data on what software a company has written, so someone on the East Coast doesn't waste time writing some code that a West Coast programmer has already written. 
+
+Richard Carpenter, chief executive officer of Index Technology Corp. and one of the early players in the CASE industry, said the Repository will reduce the fragmentation in the CASE field.
+Mr. Carpenter, whose company has a marketing and development relationship with IBM, said that CASE developers will find that their products can work with those of other companies if all of them just make products that mesh with the Repository.
+He likened the situation to that of Federal Express, which found it far more efficient to route overnight packages through Memphis, Tenn., rather than to arrange flights from each city in the U.S. to every other city. 
+
+IBM also announced several products that address the various other parts of the software-development process.
+DevelopMate, which lets companies produce prototypes of the software they're designing, will be available in December 1990.
+A new version of IBM's Cross System Product, which generates software code, will be available in November 1990.
+The Software Analysis Test Tool, which helps manage the testing process, will be available in March. 
+
+IBM also announced that three companies in which it recently invested -- Index, Bachman Information Systems Inc. and KnowledgeWare Inc. -- would make their existing products mesh with the Repository and the other tools, which IBM is collectively calling AD/Cycle.
+The companies' products, among the more successful ones on the market, mainly help in the early stages of software development, such as modeling, planning, analysis and design. 
+
+IBM said it will work with several systems integrators, which customers could hire to come in and do the application development work for them.
+IBM also established a consulting practice that will offer a similar service. 
+
+Earl Wheeler, the IBM vice president responsible for AD/Cycle, lamented the fact that most programming is still done using languages that were around when he entered the business 31 years ago. "Most programmers who wouldn't dream of using a machine that is 10 years old are still using programs that are much older," Mr. Wheeler said. 
+
+CASE researchers have said that most programmers generate an average of just 10 lines of code a day, and that many companies have resisted using CASE tools both because senior management isn't sure of the benefits and because programmers think of themselves more as artists than as engineers.
+That resistance will be hard to break down, but IBM's decision to bring its considerable weight to bear on the problem should greatly accelerate the process. 
+
+Mr. Conrades, the IBM marketing executive, said that better use of CASE tools will hardly mean that the application backlog will disappear, because there are plenty of other things that corporations would attempt if they cleared their plates of what's on them now. "It's a glass that never drains," he said.
+And if customers solve their development problems, he added, "we'll sell a ton of hardware and software and additional services." 
+
+In New York Stock Exchange composite trading yesterday, IBM shares closed at $116, down 12.5 cents. 
+
