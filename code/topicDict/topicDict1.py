@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: kangkona
+@version: 0.1
 """
 
 from tool import *
@@ -8,8 +9,8 @@ from collections import OrderedDict
 import re
 
 dict_texts = tree()
-
-def gen_dict(texts):
+ 
+def gen_dict0(texts):
     '''gen dict from all essays.'''
     for text in texts:
         for word in text:
@@ -17,6 +18,16 @@ def gen_dict(texts):
                 dict_texts[word]['freq']+=1
             else:
                 dict_texts[word]['freq'] = 1
+
+dict_texts = {}
+def gen_dict(texts):
+    ''''''
+    for text in texts:
+        for word in text:
+            if word in dict_texts:
+                dict_texts[word]+=1
+            else:
+                dict_texts[word] = 1
 
 # Todo: Remove some words which freq is only 1.
     
@@ -41,7 +52,7 @@ def onTopic_goal(text):
     
     
 def main():
-    FILE = "data/1.txt"
+    FILE = "data/test.txt"
     fin = open(FILE).read().lower()
     texts = re.split("<start>", fin)
 #     texts = [words2stemer(stopwords_filter(text_tokenizer(text))) for text in texts]
@@ -52,12 +63,14 @@ def main():
     for text in texts:
         print onTopic_goal(text)
     
+    word_counts = {}
     for word in dict_texts:
-        if dict_texts[word]['freq'] > 10:
-            print word, dict_texts[word]['freq']
+        word_counts[word] = dict_texts[word]['freq']
+    print word_counts
+    for word in sorted(word_counts.iteritems(), key = lambda asd:asd[1], reverse = True):
+            print word
         
     
-
 if __name__ == '__main__':
     main()    
     
